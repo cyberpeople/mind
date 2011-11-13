@@ -1,0 +1,515 @@
+MED Value: 91
+ATT Value: 53
+BLINK Value: 92
+MED Value: 67
+ATT Value: 57
+BLINK Value: 91
+MED Value: 60
+ATT Value: 61
+MED Value: 43
+ATT Value: 54
+MED Value: 30
+ATT Value: 57
+MED Value: 26
+ATT Value: 60
+MED Value: 67
+ATT Value: 51
+BLINK Value: 90
+MED Value: 77
+ATT Value: 47
+MED Value: 67
+ATT Value: 61
+MED Value: 70
+ATT Value: 64
+MED Value: 77
+ATT Value: 66
+BLINK Value: 243
+MED Value: 77
+ATT Value: 66
+MED Value: 60
+ATT Value: 50
+MED Value: 63
+ATT Value: 50
+MED Value: 56
+ATT Value: 50
+MED Value: 44
+ATT Value: 54
+MED Value: 54
+ATT Value: 67
+MED Value: 61
+ATT Value: 56
+MED Value: 66
+ATT Value: 50
+MED Value: 75
+ATT Value: 51
+MED Value: 67
+ATT Value: 63
+MED Value: 64
+ATT Value: 53
+MED Value: 64
+ATT Value: 57
+MED Value: 70
+ATT Value: 56
+MED Value: 74
+ATT Value: 44
+MED Value: 54
+ATT Value: 54
+BLINK Value: 255
+MED Value: 54
+ATT Value: 54
+MED Value: 47
+ATT Value: 66
+MED Value: 47
+ATT Value: 66
+MED Value: 41
+ATT Value: 53
+BLINK Value: 78
+MED Value: 35
+ATT Value: 57
+BLINK Value: 255
+MED Value: 35
+ATT Value: 57
+MED Value: 51
+ATT Value: 63
+BLINK Value: 55
+MED Value: 44
+ATT Value: 50
+MED Value: 48
+ATT Value: 61
+MED Value: 74
+ATT Value: 54
+MED Value: 88
+ATT Value: 54
+BLINK Value: 69
+MED Value: 91
+ATT Value: 54
+MED Value: 84
+ATT Value: 50
+MED Value: 66
+ATT Value: 54
+MED Value: 47
+ATT Value: 53
+MED Value: 53
+ATT Value: 50
+MED Value: 47
+ATT Value: 51
+MED Value: 54
+ATT Value: 51
+MED Value: 54
+ATT Value: 41
+MED Value: 50
+ATT Value: 57
+MED Value: 44
+ATT Value: 30
+MED Value: 57
+ATT Value: 47
+MED Value: 67
+ATT Value: 60
+BLINK Value: 179
+
+
+MED Value: 61
+ATT Value: 53
+MED Value: 53
+ATT Value: 38
+MED Value: 57
+ATT Value: 23
+MED Value: 54
+ATT Value: 17
+MED Value: 35
+ATT Value: 27
+MED Value: 53
+ATT Value: 37
+MED Value: 70
+ATT Value: 57
+MED Value: 56
+ATT Value: 43
+BLINK Value: 253
+
+
+MED Value: 56
+ATT Value: 43
+MED Value: 27
+ATT Value: 35
+BLINK Value: 255
+
+
+MED Value: 27
+ATT Value: 35
+MED Value: 29
+ATT Value: 24
+BLINK Value: 52
+
+
+MED Value: 41
+ATT Value: 26
+MED Value: 60
+ATT Value: 38
+MED Value: 84
+ATT Value: 44
+MED Value: 81
+ATT Value: 40
+MED Value: 61
+ATT Value: 43
+MED Value: 51
+ATT Value: 43
+ATT Value: 40
+ATT Value: 37
+BLINK Value: 230
+
+
+ATT Value: 37
+ATT Value: 51
+ATT Value: 56
+ATT Value: 57
+ATT Value: 53
+ATT Value: 50
+ATT Value: 54
+ATT Value: 48
+ATT Value: 61
+ATT Value: 70
+ATT Value: 84
+ATT Value: 83
+ATT Value: 87
+ATT Value: 74
+ATT Value: 64
+ATT Value: 67
+ATT Value: 66
+ATT Value: 51
+ATT Value: 60
+ATT Value: 54
+ATT Value: 48
+ATT Value: 66
+ATT Value: 40
+ATT Value: 44
+ATT Value: 47
+ATT Value: 54
+ATT Value: 75
+BLINK Value: 76
+
+
+ATT Value: 74
+ATT Value: 80
+ATT Value: 74
+ATT Value: 83
+ATT Value: 69
+BLINK Value: 60
+
+
+BLINK Value: 85
+
+
+ATT Value: 63
+ATT Value: 50
+BLINK Value: 67
+
+
+ATT Value: 27
+ATT Value: 44
+ATT Value: 44
+BLINK Value: 96
+
+
+ATT Value: 29
+ATT Value: 41
+ATT Value: 37
+ATT Value: 40
+ATT Value: 48
+ATT Value: 40
+ATT Value: 48
+BLINK Value: 50
+
+
+ATT Value: 44
+ATT Value: 51
+ATT Value: 64
+ATT Value: 56
+ATT Value: 63
+ATT Value: 51
+ATT Value: 34
+ATT Value: 23
+ATT Value: 34
+ATT Value: 35
+ATT Value: 44
+ATT Value: 64
+ATT Value: 53
+ATT Value: 53
+ATT Value: 48
+ATT Value: 41
+ATT Value: 41
+ATT Value: 38
+ATT Value: 38
+ATT Value: 37
+ATT Value: 34
+ATT Value: 29
+ATT Value: 34
+BLINK Value: 86
+
+
+ATT Value: 26
+ATT Value: 17
+ATT Value: 26
+ATT Value: 37
+BLINK Value: 68
+
+
+ATT Value: 44
+ATT Value: 48
+ATT Value: 43
+ATT Value: 23
+ATT Value: 43
+ATT Value: 43
+ATT Value: 57
+ATT Value: 47
+ATT Value: 61
+BLINK Value: 242
+
+
+ATT Value: 61
+ATT Value: 51
+ATT Value: 34
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+BLINK Value: 112
+
+
+ATT Value: 0
+ATT Value: 0
+BLINK Value: 210
+
+
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+BLINK Value: 184
+
+
+ATT Value: 0
+ATT Value: 61
+ATT Value: 61
+ATT Value: 61
+BLINK Value: 255
+
+
+ATT Value: 61
+ATT Value: 61
+ATT Value: 54
+ATT Value: 54
+ATT Value: 47
+ATT Value: 41
+BLINK Value: 80
+
+
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+ATT Value: 0
+BLINK Value: 202
+
+
+ATT Value: 1
+ATT Value: 1
+ATT Value: 1
+BLINK Value: 96
+
+
+ATT Value: 24
+ATT Value: 17
+ATT Value: 23
+ATT Value: 4
+ATT Value: 20
+ATT Value: 54
+ATT Value: 81
+ATT Value: 56
+ATT Value: 67
+ATT Value: 47
+ATT Value: 23
+ATT Value: 20
+ATT Value: 20
+ATT Value: 7
+ATT Value: 35
+ATT Value: 21
+BLINK Value: 173
+
+
+ATT Value: 69
+BLINK Value: 53
+
+
+ATT Value: 53
+ATT Value: 40
+ATT Value: 50
+ATT Value: 74
+ATT Value: 66
+ATT Value: 70
+ATT Value: 63
+ATT Value: 50
+ATT Value: 51
+ATT Value: 37
+ATT Value: 24
+ATT Value: 11
+ATT Value: 1
+ATT Value: 26
+BLINK Value: 210
+
+
+ATT Value: 26
+ATT Value: 34
+ATT Value: 51
+ATT Value: 63
+ATT Value: 57
+BLINK Value: 212
+
+
+BLINK Value: 134
+
+
+ATT Value: 57
+ATT Value: 57
+ATT Value: 47
+ATT Value: 35
+ATT Value: 26
+ATT Value: 27
+ATT Value: 35
+ATT Value: 47
+ATT Value: 47
+ATT Value: 26
+ATT Value: 16
+ATT Value: 4
+ATT Value: 3
+ATT Value: 14
+ATT Value: 11
+ATT Value: 20
+ATT Value: 35
+ATT Value: 48
+ATT Value: 60
+BLINK Value: 66
+
+
+ATT Value: 63
+ATT Value: 63
+ATT Value: 51
+ATT Value: 34
+ATT Value: 24
+ATT Value: 21
+BLINK Value: 73
+
+
+ATT Value: 21
+ATT Value: 35
+ATT Value: 27
+BLINK Value: 161
+
+
+ATT Value: 23
+ATT Value: 27
+ATT Value: 43
+ATT Value: 63
+ATT Value: 83
+ATT Value: 88
+ATT Value: 70
+ATT Value: 61
+ATT Value: 47
+BLINK Value: 62
+
+
+ATT Value: 35
+ATT Value: 34
+ATT Value: 37
+ATT Value: 30
+ATT Value: 29
+ATT Value: 21
+ATT Value: 29
+ATT Value: 44
+ATT Value: 43
+ATT Value: 51
+ATT Value: 38
+ATT Value: 34
+ATT Value: 44
+BLINK Value: 191
+
+
+ATT Value: 16
+BLINK Value: 58
+
+
+ATT Value: 27
+ATT Value: 51
+BLINK Value: 224
+
+
+ATT Value: 51
+ATT Value: 40
+ATT Value: 41
+ATT Value: 38
+ATT Value: 34
+ATT Value: 41
+ATT Value: 38
+ATT Value: 51
+ATT Value: 54
+ATT Value: 54
+ATT Value: 66
+ATT Value: 63
+ATT Value: 66
+ATT Value: 70
+ATT Value: 63
+ATT Value: 64
+ATT Value: 61
+ATT Value: 63
+ATT Value: 63
+ATT Value: 63
+ATT Value: 67
+ATT Value: 50
+ATT Value: 67
+ATT Value: 64
+ATT Value: 56
+ATT Value: 61
+ATT Value: 44
+ATT Value: 47
+ATT Value: 40
+ATT Value: 47
+ATT Value: 56
+ATT Value: 56
+ATT Value: 63
+ATT Value: 74
+ATT Value: 69
+ATT Value: 74
+ATT Value: 78
+ATT Value: 66
+ATT Value: 61
+ATT Value: 61
+ATT Value: 64
+ATT Value: 66
+ATT Value: 83
+ATT Value: 90
+ATT Value: 83
+ATT Value: 84
+ATT Value: 64
+BLINK Value: 70
+
+
+ATT Value: 75
+BLINK Value: 69
+
+
+ATT Value: 64
+BLINK Value: 112
+
+
+BLINK Value: 86
+
+
+ATT Value: 69
+ATT Value: 74
+ATT Value: 63
+ATT Value: 90
+ATT Value: 84
+ATT Value: 88
+ATT Value: 70
+ATT Value: 54
+ATT Value: 44
+ATT Value: 35

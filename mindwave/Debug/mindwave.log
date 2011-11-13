@@ -1,0 +1,23 @@
+﻿Build started 13/11/2011 09:23:25.
+     1>Project "c:\Users\little_john\documents\visual studio 2010\Projects\mindwave\mindwave\mindwave.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\mindwave.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt mindwave.c
+         mindwave.c
+     1>c:\users\little_john\documents\visual studio 2010\projects\mindwave\mindwave\mindwave.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Debug\mindwave.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\mindwave.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Debug\mindwave.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Debug\mindwave.lib" /MACHINE:X86 Debug\mindwave.obj
+         ..\..\..\..\..\Favorites\Downloads\thinkgear_testapp\thinkgear_testapp\thinkgear_testapp\thinkgear.lib
+         mindwave.vcxproj -> c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Debug\mindwave.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Debug\mindwave.exe;#1" /manifest Debug\mindwave.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\mindwave.unsuccessfulbuild".
+         Touching "Debug\mindwave.lastbuildstate".
+     1>Done Building Project "c:\Users\little_john\documents\visual studio 2010\Projects\mindwave\mindwave\mindwave.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.01

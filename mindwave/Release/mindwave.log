@@ -1,0 +1,37 @@
+﻿Build started 13/11/2011 11:51:30.
+     1>Project "c:\Users\little_john\documents\visual studio 2010\Projects\mindwave\mindwave\mindwave.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\mindwave.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt mindwave.c
+         mindwave.c
+     1>mindwave.c(35): warning C4013: 'opensocket' undefined; assuming extern returning int
+     1>mindwave.c(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>mindwave.c(76): warning C4013: 'readdata' undefined; assuming extern returning int
+     1>mindwave.c(78): warning C4013: 'trncmd' undefined; assuming extern returning int
+     1>mindwave.c(80): warning C4013: 'fwdcmd' undefined; assuming extern returning int
+     1>mindwave.c(127): warning C4033: 'readdata' must return a value
+     1>mindwave.c(151): warning C4013: 'EstablishConnection' undefined; assuming extern returning int
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Release\mindwave.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\mindwave.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Release\mindwave.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Release\mindwave.lib" /MACHINE:X86 Release\client.obj
+         Release\mindwave.obj
+         ..\..\..\..\..\Favorites\Downloads\thinkgear_testapp\thinkgear_testapp\thinkgear_testapp\thinkgear.lib
+     1>client.obj : error LNK2001: unresolved external symbol _send@16
+     1>client.obj : error LNK2001: unresolved external symbol _gethostbyname@4
+     1>client.obj : error LNK2001: unresolved external symbol "bool __cdecl ShutdownConnection(unsigned int)" (?ShutdownConnection@@YA_NI@Z)
+     1>client.obj : error LNK2001: unresolved external symbol _socket@12
+     1>client.obj : error LNK2001: unresolved external symbol _recv@16
+     1>client.obj : error LNK2001: unresolved external symbol "char const * __cdecl WSAGetLastErrorMessage(char const *,int)" (?WSAGetLastErrorMessage@@YAPBDPBDH@Z)
+     1>client.obj : error LNK2001: unresolved external symbol _htons@4
+     1>client.obj : error LNK2001: unresolved external symbol _inet_addr@4
+     1>client.obj : error LNK2001: unresolved external symbol _inet_ntoa@4
+     1>client.obj : error LNK2001: unresolved external symbol _connect@12
+     1>mindwave.obj : error LNK2001: unresolved external symbol _EstablishConnection
+     1>c:\users\little_john\documents\visual studio 2010\Projects\mindwave\Release\mindwave.exe : fatal error LNK1120: 11 unresolved externals
+     1>Done Building Project "c:\Users\little_john\documents\visual studio 2010\Projects\mindwave\mindwave\mindwave.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.92
